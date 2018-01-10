@@ -282,7 +282,7 @@ hr {
 
 #r h4 {
     color: white;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 #r p {
@@ -644,6 +644,6 @@ label, a{
 
 #topNubex {
 	position: fixed;
-	right: 45px;
+	right: 100px;
 	bottom: 45px;
    }
