@@ -427,6 +427,14 @@ hr {
     text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.50);
 }
 
+.blockquote-footer {
+  display: block;
+  font-size: 100%;
+  color: antiquewhite;
+  font-family:'Philosopher', sans-serif;
+    
+}
+
 .social {
   position: fixed;
   top: 80px;
@@ -631,17 +639,6 @@ label, a{
 
 #controls label{ 
 	transition: opacity 0.2s ease-out;
-}
-#Go_Top{
-	position: fixed; 
-	top: 45%; /* bottom: 0%; */
-	right: 0; 
-	cursor:pointer;
-	display:none;
-}
- 
-#Go_Top img{
-	width:50px;
 }
 
 #topNubex {
